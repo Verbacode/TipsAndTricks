@@ -11,6 +11,7 @@ file name should be short but descriptive and contain no spaces (replace them
 with hyphens).  Add a description in the readme file as follows::
 
   - **force-stop-apps.rst:** Common ways to freeze/force-stop apps
+- **force-stop-apps.rst:** Common ways to freeze
 
 How to Use the Repository
 =========================
